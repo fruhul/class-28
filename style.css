@@ -1,0 +1,121 @@
+.header img {
+    width: 92px;
+}
+img{
+    max-width: 100%;
+}
+.banner{
+    background-color: #f9f9ff;
+}
+.banner img {
+    width: 357px;
+}
+.banner h4 {
+    font-weight: 400;
+}
+.banner h2 {
+    font-weight: 600;
+    font-size: 39px;
+}
+.banner a {
+    background-color: #8491ff;
+    font-weight: 600;
+}
+/* About */
+.About{
+    background-color: #ffffff;
+}
+.About button{
+    background-color: #8491ff;
+    font-weight: 600;
+}
+.About h5 {
+    font-weight: 400;
+}
+.About h2 {
+    font-size: 43px;
+    font-weight: 600;
+}
+.About p {
+    font-weight: 700;
+}
+/* count section */
+.count-section{
+    background-color: #8490ff;
+}
+.count-section h2 {
+    font-weight: 700;
+}
+.count-section p {
+    font-weight: 400;
+}
+/* app secton */
+.app-section{
+    background-color: #f9f9ff;
+}
+.app-item {
+    box-shadow: 0px 0px 7px rgb(92 162 243/50%);
+    padding: 15px;
+    border-radius: 8px;
+}
+.app-contant {
+    padding: 20px 0;
+}
+.app-item h5 {
+    background: #f9f9ff;
+    width: 129px;
+    margin: auto;
+    height: 129px;
+    border-radius: 50%;
+    padding: 32px;
+    font-size: 49px;
+}
+.app-item h3 {
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 13px;
+}
+.app-item button {
+    margin-top: 26px;
+}
+.app-item p {
+    font-weight: 400;
+}
+/* ontro section */
+.inro-item {
+    box-shadow: 0 0 5px;
+    padding: 11px;
+    position: relative;
+    padding-top: 60px;
+}
+.inro-item h3 {
+    font-size: 26px;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+.inro-item p {
+    margin-top: 35px;
+    font-weight: 400;
+}
+.inro-item  a {
+    background: #ddd;
+    box-shadow: 4px 3px 6px  -2px;
+}
+.inro-item img {
+    position: absolute;
+    top: -76px;
+    left: 11px;
+    width: 124px;
+}
+.inro {
+    padding-top: 141px !important;
+}
+/* form section  */
+.form-section {
+    background-color: #f9f9ff;
+}
+/* footer section */
+footer p {
+ 
+    margin-bottom: 0rem;
+}
